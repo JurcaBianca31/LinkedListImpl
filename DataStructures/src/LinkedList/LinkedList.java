@@ -4,10 +4,10 @@ public class LinkedList {
 
     Node head;
 
-    public class Node {
+    public static class Node {
 
-        Node next;
-        int value;
+        public Node next;
+        public int value;
 
         public Node(int value) {
 
