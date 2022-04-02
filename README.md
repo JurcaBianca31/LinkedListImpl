@@ -1,2 +1,0 @@
-# LinkedListImpl
-Mili
