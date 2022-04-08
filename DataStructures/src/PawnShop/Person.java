@@ -4,7 +4,7 @@ public class Person {
 
     //customer and employee
 
-    private String name;
+    protected String name;
     private int age;
     private int jobPosition;
     private int vacationDays;
