@@ -2,8 +2,6 @@ package PawnShop;
 
 public class Person {
 
-    //customer and employee
-
     protected String name;
     private int age;
     private int jobPosition;
